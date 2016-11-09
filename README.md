@@ -3,7 +3,7 @@
 A PhoneGap example app using [Framework7 HTML Framework](http://framework7.io/) and the [Spotify API](https://developer.spotify.com/web-api/).
 
 ## Previewing the app
-
+ 
 ### Requirements
 
 - PhoneGap CLI: `npm install -g phonegap`
